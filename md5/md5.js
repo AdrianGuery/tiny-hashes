@@ -7,5 +7,6 @@ for (; i < 64;) {
 }
 
 export default function md5(s) {
+  console.log("md5 function");
   return s;
 }
